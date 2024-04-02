@@ -1,0 +1,56 @@
+[
+  {
+    "id_etudiant": 0,
+    "nom": "Aucun étudiant sélectionné",
+    "session": 1,
+    "cours": []
+  },
+  {
+    "id_etudiant": 1,
+    "nom": "Connor",
+    "session": 1,
+    "cours": [
+      "Prog1"
+    ]
+  },
+  {
+    "id_etudiant": 2,
+    "nom": "Cole",
+    "session": 2,
+    "cours": [
+      "Prog2"
+    ]
+  },
+  {
+    "id_etudiant": 3,
+    "nom": "Alex",
+    "session": 3,
+    "cours": [
+      "Prog3"
+    ]
+  },
+  {
+    "id_etudiant": 4,
+    "nom": "Nathan",
+    "session": 1,
+    "cours": [
+      "Prog1"
+    ]
+  },
+  {
+    "id_etudiant": 5,
+    "nom": "Auston",
+    "session": 2,
+    "cours": [
+      "Prog2"
+    ]
+  },
+  {
+    "id_etudiant": 6,
+    "nom": "Sidney",
+    "session": 3,
+    "cours": [
+      "Prog3"
+    ]
+  }
+]
